@@ -1,0 +1,11 @@
+{
+  "name": "noseed-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for NoSeed app",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
